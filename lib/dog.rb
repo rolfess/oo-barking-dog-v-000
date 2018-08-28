@@ -1,8 +1,8 @@
 class Dog
  attr_accessor :name
- 
+
  def bark
-   put "woof!"
- end 
+   puts "woof!"
+ end
 end
 # Your code goes here!
